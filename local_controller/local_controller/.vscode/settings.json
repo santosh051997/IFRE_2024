@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/megatron/FRE_2024/install/linorobot2_gazebo/local/lib/python3.10/dist-packages",
+        "/home/megatron/FRE_2024/install/fre_2024/lib/python3.10/site-packages",
+        "/home/megatron/vesc_ws/install/vesc_msgs/local/lib/python3.10/dist-packages",
+        "/home/megatron/vesc_ws/install/ros2_vesc_drv/lib/python3.10/site-packages",
+        "/home/megatron/vesc_ws/install/robot_localization/local/lib/python3.10/dist-packages",
+        "/home/megatron/vesc_ws/install/nav_controller/lib/python3.10/site-packages",
+        "/home/megatron/vesc_ws/install/local_controller/lib/python3.10/site-packages",
+        "/home/megatron/vesc_ws/install/fre/lib/python3.10/site-packages",
+        "/home/megatron/install/local_controller/lib/python3.10/site-packages",
+        "/home/megatron/install/fre/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/megatron/FRE_2024/install/linorobot2_gazebo/local/lib/python3.10/dist-packages",
+        "/home/megatron/FRE_2024/install/fre_2024/lib/python3.10/site-packages",
+        "/home/megatron/vesc_ws/install/vesc_msgs/local/lib/python3.10/dist-packages",
+        "/home/megatron/vesc_ws/install/ros2_vesc_drv/lib/python3.10/site-packages",
+        "/home/megatron/vesc_ws/install/robot_localization/local/lib/python3.10/dist-packages",
+        "/home/megatron/vesc_ws/install/nav_controller/lib/python3.10/site-packages",
+        "/home/megatron/vesc_ws/install/local_controller/lib/python3.10/site-packages",
+        "/home/megatron/vesc_ws/install/fre/lib/python3.10/site-packages",
+        "/home/megatron/install/local_controller/lib/python3.10/site-packages",
+        "/home/megatron/install/fre/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

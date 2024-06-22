@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/megatron/sick_ws/install/sick_tim/include/**",
+        "/home/megatron/vesc_ws/install/vesc_driver/include/**",
+        "/home/megatron/vesc_ws/install/vesc_ackermann/include/**",
+        "/home/megatron/vesc_ws/install/vesc_msgs/include/**",
+        "/home/megatron/vesc_ws/install/udp_driver/include/**",
+        "/home/megatron/vesc_ws/install/serial_driver/include/**",
+        "/home/megatron/vesc_ws/install/robot_localization/include/**",
+        "/home/megatron/vesc_ws/install/io_context/include/**",
+        "/home/megatron/vesc_ws/install/csm/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/megatron/vesc_ws/src/csm/include/**",
+        "/home/megatron/vesc_ws/src/robot_localization/include/**",
+        "/home/megatron/vesc_ws/src/ros2_laser_scan_matcher/include/**",
+        "/home/megatron/vesc_ws/src/ros2_odometry_estimation/include/**",
+        "/home/megatron/vesc_ws/src/transport_drivers-humble/io_context/include/**",
+        "/home/megatron/vesc_ws/src/transport_drivers-humble/serial_driver/include/**",
+        "/home/megatron/vesc_ws/src/transport_drivers-humble/udp_driver/include/**",
+        "/home/megatron/vesc_ws/src/vesc-ros2/vesc_ackermann/include/**",
+        "/home/megatron/vesc_ws/src/vesc-ros2/vesc_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
